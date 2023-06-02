@@ -12,6 +12,8 @@ Data understanding - Interestingly this is not actually SyriaTel Customer data a
 CLeaning - Dropped personally identifying info. Data was fairly clean from start and did not need null handling after using pd.get_dummies to dummy out the necessary columns.
 Cleaning can be found in the multiple files other than the final file (plan to circle back on this project after bootcamp to finalize the project - want to keep my work resources for reference at that time).
 
+Interestingly, the use of SMOTE to oversample the Churn data did not improve the model. It brought  the scores down. SMOTE was not used for the final model.
+
 
 # 'Churn Analysis - Final File' Jupyter Notebook used for Analysis
 Analysis - reference 'Churn Analysis - Final File' for work analysis. Decision Tree was developed to predict Churn customers.
