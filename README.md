@@ -19,3 +19,21 @@ https://docs.google.com/presentation/d/1AS6WV29iYggkqiov86pNoTbis5sj8LAQG-fOF7ct
 
 
 
+# Data from project:
+1) SyriaTel Customer ChurnLinks to an external site.
+Build a classifier to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company. This is a binary classification problem.
+
+Most naturally, your audience here would be the telecom business itself, interested in reducing how much money is lost because of customers who don't stick around very long. The question you can ask is: are there any predictable patterns here?
+
+# Data from website:
+
+Churn in Telecom's dataset
+
+About Dataset
+No description available
+
+Collaborators
+david_becks (Owner)
+
+All other info is blank
+
