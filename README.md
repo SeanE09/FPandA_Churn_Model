@@ -5,7 +5,7 @@ Using Classification Model to predict customer churn
 
 
 
-https://docs.google.com/presentation/d/1AS6WV29iYggkqiov86pNoTbis5sj8LAQG-fOF7cthws/edit#slide=id.gc6ac5e8787_0_719
+https://docs.google.com/presentation/d/1AS6WV29iYggkqiov86pNoTbis5sj8LAQG-fOF7cthws/edit#slide=id.g22612c97c33_0_236
 
 
 
