@@ -12,7 +12,7 @@ CLeaning - Dropped personally identifying info. Data was fairly clean from start
 Cleaning can be found in the multiple files other than the final file (plan to circle back on this project after bootcamp to finalize project - want to keep my work resources for referance at that time).
 
 Analysis - referance 'Churn Analysis - Final File' for work analysis. Decision Tree was developed to predict Churn customers.
-
+# 'Churn Analysis - Final File' for work
 
 # Presentation
 https://docs.google.com/presentation/d/1AS6WV29iYggkqiov86pNoTbis5sj8LAQG-fOF7cthws/edit#slide=id.g22612c97c33_0_236
